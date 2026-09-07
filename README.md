@@ -4,14 +4,14 @@ Repositorio con proyectos de análisis de datos usando Python, pandas y Power BI
 
 ## Proyectos
 
-| # | Proyecto | Herramientas | Estado |
-|---|----------|-------------|--------|
+| #  | Proyecto                                                        | Herramientas             | Estado         |
+| -- | --------------------------------------------------------------- | ------------------------ | -------------- |
 | 01 | [Análisis de Ventas E-commerce](./01-analisis-ventas-ecommerce) | Python, pandas, Power BI | 🔄 En progreso |
-| 02 | [ETL de Precios de Criptomonedas](./02-etl-api-criptomonedas) | Python, API REST, SQLite | 🔄 En progreso |
+| 02 | [ETL de Precios de Criptomonedas](./02-etl-api-criptomonedas)    | Python, API REST, SQLite | 🔄 En progreso |
 
 ## Sobre mí
-*(Agrega aquí 2-3 líneas sobre ti: quién eres, qué estás estudiando, qué buscas — esto es lo primero que lee un reclutador al entrar al repo)*
 
 ## Contacto
-- LinkedIn: 
-- Email: 
+
+- LinkedIn:
+- Email:
